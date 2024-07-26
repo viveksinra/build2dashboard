@@ -9,7 +9,7 @@ const ROOTS = {
 
 export const paths = {
   faqs: '/faqs',
-  minimalStore: 'https://mui.com/store/items/minimal-dashboard/',
+  minimalStore: 'https://mui.com/store/items/softechinfra-dashboard/',
   // AUTH
   auth: {
     amplify: {
